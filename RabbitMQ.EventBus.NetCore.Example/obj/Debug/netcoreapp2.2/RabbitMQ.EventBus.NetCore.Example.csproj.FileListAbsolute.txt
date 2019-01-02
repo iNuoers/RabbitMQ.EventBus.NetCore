@@ -1,0 +1,17 @@
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\bin\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.Example.deps.json
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\bin\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.Example.runtimeconfig.json
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\bin\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.Example.runtimeconfig.dev.json
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\bin\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.Example.dll
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\bin\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.Example.pdb
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\bin\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.dll
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\bin\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.pdb
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\obj\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.Example.csprojAssemblyReference.cache
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\obj\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.Example.csproj.CoreCompileInputs.cache
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\obj\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.Example.RazorAssemblyInfo.cache
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\obj\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.Example.RazorAssemblyInfo.cs
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\obj\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.Example.AssemblyInfoInputs.cache
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\obj\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.Example.AssemblyInfo.cs
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\obj\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.Example.RazorTargetAssemblyInfo.cache
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\obj\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.Example.csproj.CopyComplete
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\obj\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.Example.dll
+C:\Users\reant\source\repos\RabbitMQ.EventBus.NetCore\RabbitMQ.EventBus.NetCore.Example\obj\Debug\netcoreapp2.2\RabbitMQ.EventBus.NetCore.Example.pdb
