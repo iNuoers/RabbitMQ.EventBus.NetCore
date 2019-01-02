@@ -26,7 +26,7 @@ namespace RabbitMQ.EventBus.NetCore.Example
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
-            services.AddRabbitMQEventBus("amqp://rciqbnyw:0u8UxRH5FlLuhO3Ra55zGqgM4ZVETlTo@artistic-piranha.rmq.cloudamqp.com/rciqbnyw", eventBusOptionAction: eventBusOption =>
+            services.AddRabbitMQEventBus("amqp://you-queue", eventBusOptionAction: eventBusOption =>
             {
                 eventBusOption.ClientProvidedAssembly<Startup>();
                 eventBusOption.EnableRetryOnFailure(true, 5000, TimeSpan.FromSeconds(30));
