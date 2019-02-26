@@ -58,7 +58,6 @@ app.RabbitMQEventBusAutoSubscribe();
 #### Subscribe to the event
 
 ```c# 
-
     public class MailBodyHandle : IEventHandler<MailOtherModel>, IDisposable
     {       
         public Task Handle(MailModel message)
@@ -70,15 +69,12 @@ app.RabbitMQEventBusAutoSubscribe();
         {
           //...
         }
-        
-    }
-    
+    }    
 ```
 
 #### Publish event
 
 ```c# 
-
     [ApiController]
     [Route("api/[controller]")]
     public class ValuesController : ControllerBase
