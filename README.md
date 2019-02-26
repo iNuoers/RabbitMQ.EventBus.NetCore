@@ -15,8 +15,7 @@
 >> dotnet add package RabbitMQ.EventBus.NetCore
 ```
 
-#### Startup.cs 
-
+#### Startup
 ```c#
 services.AddRabbitMQEventBus("amqp://you-queue", eventBusOptionAction: eventBusOption =>
 {
@@ -29,8 +28,7 @@ app.RabbitMQEventBusAutoSubscribe();
 
 ```
 
-#### A simple model
-
+#### Event 
 ```c#
     [EventBus(Exchange = "rabbitmq.eventBus.mail", RoutingKey = "rabbitmq.eventbus.mail")]
     public class MailModel : IEvent
@@ -41,8 +39,8 @@ app.RabbitMQEventBusAutoSubscribe();
         public DateTimeOffset Time { get; set; }
     }
 ```
-#### A model with N RouteKey
 
+### A event with N RouteKey
 ```c#
     [EventBus(Exchange = "rabbitmq.eventBus.mail", RoutingKey = "rabbitmq.eventbus.mail")]
     [EventBus(Exchange = "rabbitmq.eventBus.mail", RoutingKey = "rabbitmq.eventbus.mail-other")]
@@ -55,7 +53,7 @@ app.RabbitMQEventBusAutoSubscribe();
         public DateTimeOffset Time { get; set; }
     }
 ```
-#### Subscribe to the event
+### Subscribe
 
 ```c# 
     public class MailBodyHandle : IEventHandler<MailOtherModel>, IDisposable
@@ -72,8 +70,7 @@ app.RabbitMQEventBusAutoSubscribe();
     }    
 ```
 
-#### Publish event
-
+### Publish
 ```c# 
     [ApiController]
     [Route("api/[controller]")]
