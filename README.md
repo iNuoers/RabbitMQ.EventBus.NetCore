@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/Version-.Net%20Core%202.1%2F2.2-blue.svg)]()
 [![License: MIT](https://img.shields.io/github/status/contexts/pulls/srburton/RabbitMQ.EventBus.NetCore/11.svg)](https://github.com/srburton/RabbitMQ.EventBus.NetCore)
 
-#### Install
+### Install
 
 ```shell
 >> Install-Package RabbitMQ.EventBus.NetCore
@@ -15,7 +15,7 @@
 >> dotnet add package RabbitMQ.EventBus.NetCore
 ```
 
-#### Startup
+### Startup
 ```c#
 services.AddRabbitMQEventBus("amqp://you-queue", eventBusOptionAction: eventBusOption =>
 {
@@ -28,7 +28,7 @@ app.RabbitMQEventBusAutoSubscribe();
 
 ```
 
-#### Event 
+### Event 
 ```c#
     [EventBus(Exchange = "rabbitmq.eventBus.mail", RoutingKey = "rabbitmq.eventbus.mail")]
     public class MailModel : IEvent
