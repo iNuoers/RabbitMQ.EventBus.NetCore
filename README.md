@@ -1,4 +1,11 @@
-# RabbitMq for .NetCore 2.2
+[![License: MIT](https://www.rabbitmq.com/img/RabbitMQ-logo.svg)](https://www.rabbitmq.com/)
+
+# RabbitMq Unofficial
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
+[![License: MIT](https://img.shields.io/badge/Version-.Net%20Core%202.1%2F2.2-blue.svg)]()
+[![License: MIT](https://img.shields.io/github/status/contexts/pulls/srburton/RabbitMQ.EventBus.NetCore/11.svg)](https://github.com/srburton/RabbitMQ.EventBus.NetCore)
 
 
 #### Install
