@@ -1,6 +1,6 @@
 [![License: MIT](https://www.rabbitmq.com/img/RabbitMQ-logo.svg)](https://www.rabbitmq.com/)
 
-# RabbitMq Unofficial
+# RabbitMq Unofficial v1.9
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: MIT](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
